@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon js/backend/app.js",
-    "start": "node js/backend/app.js"
+    "dev": "nodemon ./js/backend/app.js",
+    "start": "node ./js/backend/app.js"
   },
   "author": "andrwe455",
   "license": "ISC",
